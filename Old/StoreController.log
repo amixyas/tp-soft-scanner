@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-24T20:40:57.068295021Z</date>
+  <millis>1671914457068</millis>
+  <nanos>295021</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>initStore</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=fg, Age=55, Email=d@d.s, Password=cvdfdf]</message>
+</record>
+</log>

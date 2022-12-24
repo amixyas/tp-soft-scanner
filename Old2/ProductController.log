@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-24T21:33:36.353758461Z</date>
+  <millis>1671917616353</millis>
+  <nanos>758461</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=yu, Age=55, Email=u@h.d, Password=fgfg]</message>
+</record>
+<record>
+  <date>2022-12-24T21:33:49.738293565Z</date>
+  <millis>1671917629738</millis>
+  <nanos>293565</nanos>
+  <sequence>6</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=yu, Age=55, Email=u@h.d, Password=fgfg]</message>
+</record>
+</log>

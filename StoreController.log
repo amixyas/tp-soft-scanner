@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-24T21:52:54.642546920Z</date>
+  <millis>1671918774642</millis>
+  <nanos>546920</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>initStore</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d]</message>
+</record>
+<record>
+  <date>2022-12-24T21:53:09.301714959Z</date>
+  <millis>1671918789301</millis>
+  <nanos>714959</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d]</message>
+</record>
+<record>
+  <date>2022-12-24T21:54:01.073165484Z</date>
+  <millis>1671918841073</millis>
+  <nanos>165484</nanos>
+  <sequence>8</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d]</message>
+</record>
+<record>
+  <date>2022-12-24T21:54:35.168511812Z</date>
+  <millis>1671918875168</millis>
+  <nanos>511812</nanos>
+  <sequence>10</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d]</message>
+</record>
+</log>

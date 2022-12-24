@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-24T21:53:34.042747504Z</date>
+  <millis>1671918814042</millis>
+  <nanos>747504</nanos>
+  <sequence>6</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d], Product [ID=10, Name=Nouilles pad Thai Bio CEREAL BIO, Price=125, Expiration Date=12/01/23]</message>
+</record>
+<record>
+  <date>2022-12-24T21:53:54.441687216Z</date>
+  <millis>1671918834441</millis>
+  <nanos>687216</nanos>
+  <sequence>7</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d], Product [ID=4, Name=qs, Price=55, Expiration Date=12/12/2022]</message>
+</record>
+<record>
+  <date>2022-12-24T21:54:30.136586580Z</date>
+  <millis>1671918870136</millis>
+  <nanos>586580</nanos>
+  <sequence>9</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>updateProduct</method>
+  <thread>19</thread>
+  <message>User [ID=1, Name=a, Age=2, Email=q@b.c, Password=d], Product [ID=4, Name=qs, Price=55, Expiration Date=12/12/2022]</message>
+</record>
+</log>
